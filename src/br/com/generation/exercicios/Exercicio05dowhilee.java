@@ -13,7 +13,8 @@ public class Exercicio05dowhilee {
 		
 		
 		do {
-			numero = sc.nextInt();			
+			numero = sc.nextInt();	
+			//somando os numeros 
 			soma += numero;
 		}
 		while( numero != 0); 

@@ -13,7 +13,7 @@ public class exercicio03while {
 		while( idade != -99) {
 			idade = sc.nextInt();
 			if (idade > 0 && idade <= 21) {
-				
+				//contando
 				contador1++;				
 			}
 			
